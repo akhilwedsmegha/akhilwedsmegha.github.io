@@ -1,3 +1,12 @@
+---
+layout: page
+title: "LICENSE"
+sidebar: false
+---
+
+<pre>
+<code>
+
 Copyright (c) 2014 Akhil Wali
 
 GNU GENERAL PUBLIC LICENSE
@@ -339,3 +348,6 @@ proprietary programs.  If your program is a subroutine library, you may
 consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
+
+</code>
+</pre>
