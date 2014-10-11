@@ -1,5 +1,8 @@
 body > header {
   background: $header-bg;
+  @include background($header-bg-front, $header-bg-back);
+  border-top: 1px solid $header-border-top;
+  text-align: center;
   h1 {
     display: inline-block;
     margin: 0;
