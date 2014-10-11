@@ -5,6 +5,8 @@ body > header {
   text-align: center;
   h1 {
     display: inline-block;
+    font-size: 6em;
+    font-family: "LoversQuarrel", sans-serif;
     margin: 0;
     a, a:visited, a:hover {
       color: $title_color;
@@ -13,6 +15,7 @@ body > header {
   }
   h2 {
     margin: .2em 0 0;
+    font-family: "LoversQuarrel", sans-serif;
     @extend .sans;
     font-size: 1em;
     color: $subtitle-color;
