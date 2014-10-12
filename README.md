@@ -1,4 +1,3 @@
-# TODO
 Powered by [Octopress](http://octopress.org) and [GitHub Pages](http://pages.github.com).
 
 ## Setup
