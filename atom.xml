@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Akhil + Megha]]></title>
+  <link href="http://akhilwedsmegha.github.io/atom.xml" rel="self"/>
+  <link href="http://akhilwedsmegha.github.io/"/>
+  <updated>2014-10-12T18:33:45+05:30</updated>
+  <id>http://akhilwedsmegha.github.io/</id>
+  <author>
+    <name><![CDATA[Akhil Wali]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
