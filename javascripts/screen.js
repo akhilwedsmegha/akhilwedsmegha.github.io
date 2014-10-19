@@ -27,6 +27,7 @@
 
   var initialize = function (e) {
     jQuery('#loader').fadeOut(400);
+    jQuery('#banner').fadeIn(400);
     jQuery('#content').fadeIn(400);
 
     loadMap('mapcanvas1',
