@@ -25,7 +25,10 @@
     });
   };
 
-  function initialize() {
+  var initialize = function (e) {
+    jQuery('#loader').fadeOut(400);
+    jQuery('#content').fadeIn(400);
+
     loadMap('mapcanvas1',
             15.823569, 74.495181,
             13, 'Foundary Cluster, Udyam Bhag, Belgaum',
@@ -37,7 +40,6 @@
             'https://www.google.co.in/maps/place/Bowring+Institute/@12.975071,77.60026,17z/');
   };
 
-  $(document).ready(initialize);
-
+  $(window).load(initialize);
 
 }());
